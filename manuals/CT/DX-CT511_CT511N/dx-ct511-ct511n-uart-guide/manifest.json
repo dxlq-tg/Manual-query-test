@@ -1,0 +1,55 @@
+{
+  "schema_version": "2.0",
+  "document_id": "dx-ct511-ct511n-uart-guide",
+  "series_id": "CT",
+  "product_ids": [
+    "dx-ct511",
+    "dx-ct511n"
+  ],
+  "applicable_models": [
+    "DX-CT511",
+    "DX-CT511N"
+  ],
+  "technology": [
+    "cellular_4g",
+    "gnss"
+  ],
+  "document_type": "uart_guide",
+  "output_directory": "manuals/CT/DX-CT511_CT511N/dx-ct511-ct511n-uart-guide",
+  "source": {
+    "filename": "DX-CT511&CT511N_串口UART_应用指导.docx",
+    "format": "docx",
+    "size_bytes": 356593,
+    "sha256": "972770e7ac81225a5ba75d8f62aa3e0d9be563598f638d71086b9d40f1351bbc",
+    "modified_time": "2026-06-12T08:36:54.146330+00:00"
+  },
+  "conversion": {
+    "converted_at": "2026-08-06T09:42:27.914510+00:00",
+    "python_version": "3.12.10",
+    "strategy": "pandoc_docx_to_gfm_and_ast_plus_python_docx_structural_extraction"
+  },
+  "counts": {
+    "blocks": 370,
+    "chunks": 35,
+    "tables": 103,
+    "parameter_candidates": 44,
+    "at_commands": 51,
+    "nmea_sentences": 0,
+    "assets": 3
+  },
+  "assets": [
+    "assets/media/image2.png",
+    "assets/media/image4.png",
+    "assets/media/image5.png"
+  ],
+  "source_location": {
+    "pdf_file": "document.pdf",
+    "pdf_sha256": "57ea22a0cb9976832de9597ef8e2aadb8ea3ed914421a2413541e34d7187ca31",
+    "reference_pdf_filename": "DX-CT511&CT511N_串口UART_应用指导.pdf",
+    "reference_pdf_mode": "supplied_reference_pdf",
+    "page_count": 38,
+    "pdf_reference_semantics": "Page numbers refer to the supplied reference PDF copied as document.pdf.",
+    "evidence_dataset": "../../../../dataset/evidence.jsonl",
+    "pages_dataset": "../../../../dataset/pages.jsonl"
+  }
+}

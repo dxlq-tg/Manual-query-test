@@ -1,0 +1,50 @@
+{
+  "schema_version": "2.0",
+  "document_id": "dx-ct511n-nmea0183-specification",
+  "series_id": "CT",
+  "product_ids": [
+    "dx-ct511n"
+  ],
+  "applicable_models": [
+    "DX-CT511N"
+  ],
+  "technology": [
+    "gnss"
+  ],
+  "document_type": "protocol_specification",
+  "output_directory": "manuals/CT/DX-CT511N/dx-ct511n-nmea0183-specification",
+  "source": {
+    "filename": "DX-CT511N-NMEA0183协议规范.docx",
+    "format": "docx",
+    "size_bytes": 176772,
+    "sha256": "b5c666fda3719eb8e560fc0ba2a57da0f93980534b641a8e31069e512f6f2633",
+    "modified_time": "2026-08-05T03:25:36.034285+00:00"
+  },
+  "conversion": {
+    "converted_at": "2026-08-06T09:42:28.840128+00:00",
+    "python_version": "3.12.10",
+    "strategy": "pandoc_docx_to_gfm_and_ast_plus_python_docx_structural_extraction"
+  },
+  "counts": {
+    "blocks": 71,
+    "chunks": 12,
+    "tables": 30,
+    "parameter_candidates": 129,
+    "at_commands": 0,
+    "nmea_sentences": 12,
+    "assets": 1
+  },
+  "assets": [
+    "assets/media/image2.png"
+  ],
+  "source_location": {
+    "pdf_file": "document.pdf",
+    "pdf_sha256": "eb48f9ceb10f919240766ee30ebb05d19c4ffc23a95dc0d2e7787131652e0a2d",
+    "reference_pdf_filename": "DX-CT511N-NMEA0183协议规范.pdf",
+    "reference_pdf_mode": "supplied_reference_pdf",
+    "page_count": 14,
+    "pdf_reference_semantics": "Page numbers refer to the supplied reference PDF copied as document.pdf.",
+    "evidence_dataset": "../../../../dataset/evidence.jsonl",
+    "pages_dataset": "../../../../dataset/pages.jsonl"
+  }
+}

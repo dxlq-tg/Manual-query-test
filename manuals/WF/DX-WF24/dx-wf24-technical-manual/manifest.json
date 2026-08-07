@@ -1,0 +1,74 @@
+{
+  "schema_version": "2.0",
+  "document_id": "dx-wf24-technical-manual",
+  "series_id": "WF",
+  "product_ids": [
+    "dx-wf24"
+  ],
+  "applicable_models": [
+    "DX-WF24"
+  ],
+  "technology": [
+    "wifi"
+  ],
+  "document_type": "technical_manual",
+  "output_directory": "manuals/WF/DX-WF24/dx-wf24-technical-manual",
+  "source": {
+    "filename": "DX-WF24_模组技术手册.docx",
+    "format": "docx",
+    "size_bytes": 2392940,
+    "sha256": "855396b97b880f2a2ef0ed38684a75b1fd81a3fd7ab2b3ad3286be2f8e674974",
+    "modified_time": "2026-08-06T06:25:16.246587+00:00"
+  },
+  "conversion": {
+    "converted_at": "2026-08-06T09:42:20.979604+00:00",
+    "python_version": "3.12.10",
+    "strategy": "pandoc_docx_to_gfm_and_ast_plus_python_docx_structural_extraction"
+  },
+  "counts": {
+    "blocks": 215,
+    "chunks": 14,
+    "tables": 16,
+    "parameter_candidates": 77,
+    "at_commands": 0,
+    "nmea_sentences": 0,
+    "assets": 25
+  },
+  "assets": [
+    "assets/media/image10.png",
+    "assets/media/image11.png",
+    "assets/media/image12.png",
+    "assets/media/image13.png",
+    "assets/media/image14.png",
+    "assets/media/image15.png",
+    "assets/media/image16.png",
+    "assets/media/image17.png",
+    "assets/media/image18.png",
+    "assets/media/image19.png",
+    "assets/media/image2.png",
+    "assets/media/image20.png",
+    "assets/media/image21.png",
+    "assets/media/image22.png",
+    "assets/media/image23.png",
+    "assets/media/image24.jpeg",
+    "assets/media/image25.jpeg",
+    "assets/media/image26.jpeg",
+    "assets/media/image27.jpeg",
+    "assets/media/image4.png",
+    "assets/media/image5.png",
+    "assets/media/image6.jpeg",
+    "assets/media/image7.jpeg",
+    "assets/media/image8.png",
+    "assets/media/image9.png"
+  ],
+  "source_location": {
+    "pdf_file": "document.pdf",
+    "pdf_sha256": "7984b1ed2c70bf00842eeeef57d1e5a206c998d49e875eea850dae2d55afd72a",
+    "reference_pdf_filename": "DX-WF24_模组技术手册.pdf",
+    "reference_pdf_mode": "supplied_reference_pdf",
+    "page_count": 26,
+    "pdf_reference_semantics": "Page numbers refer to the supplied reference PDF copied as document.pdf.",
+    "evidence_dataset": "../../../../dataset/evidence.jsonl",
+    "pages_dataset": "../../../../dataset/pages.jsonl"
+  }
+}

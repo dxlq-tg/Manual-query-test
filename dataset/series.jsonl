@@ -1,0 +1,7 @@
+{"series_id": "BT", "series_name": "BT系列", "technology": ["bluetooth"], "default_declared_capabilities": ["bluetooth"], "description": "蓝牙无线通信模块", "product_ids": []}
+{"series_id": "WF", "series_name": "WF系列", "technology": ["wifi"], "default_declared_capabilities": ["wifi"], "description": "Wi-Fi无线通信模块", "product_ids": ["dx-wf24"]}
+{"series_id": "LR", "series_name": "LR系列", "technology": ["lora"], "default_declared_capabilities": ["lora"], "description": "LoRa无线通信模块", "product_ids": []}
+{"series_id": "CT", "series_name": "CT系列", "technology": ["cellular_4g"], "default_declared_capabilities": ["cellular_4g", "lte"], "description": "4G蜂窝通信模块，部分型号包含GNSS功能", "product_ids": ["dx-ct511", "dx-ct511n", "dx-ct11", "dx-ct12"]}
+{"series_id": "GP", "series_name": "GP系列", "technology": ["gnss"], "default_declared_capabilities": ["gnss", "nmea0183"], "description": "GNSS卫星定位模块", "product_ids": []}
+{"series_id": "NF", "series_name": "NF系列", "technology": ["nfc"], "default_declared_capabilities": ["nfc"], "description": "NFC近场通信模块", "product_ids": []}
+{"series_id": "NR", "series_name": "NR系列", "technology": ["2.4ghz"], "default_declared_capabilities": ["2.4ghz"], "description": "2.4GHz无线通信模块", "product_ids": []}

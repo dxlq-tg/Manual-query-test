@@ -1,0 +1,92 @@
+{
+  "schema_version": "2.0",
+  "document_id": "dx-ct511-ct511n-technical-manual",
+  "series_id": "CT",
+  "product_ids": [
+    "dx-ct511",
+    "dx-ct511n"
+  ],
+  "applicable_models": [
+    "DX-CT511",
+    "DX-CT511N"
+  ],
+  "technology": [
+    "cellular_4g",
+    "gnss"
+  ],
+  "document_type": "technical_manual",
+  "output_directory": "manuals/CT/DX-CT511_CT511N/dx-ct511-ct511n-technical-manual",
+  "source": {
+    "filename": "DX-CT511&DX-CT511N-4G模块技术手册.docx",
+    "format": "docx",
+    "size_bytes": 2145999,
+    "sha256": "504677c8b77f3f253a7f62b61e33db505cd093b8a58b8afc8b3479a2818fa5e9",
+    "modified_time": "2026-07-01T03:18:56.547133+00:00"
+  },
+  "conversion": {
+    "converted_at": "2026-08-06T09:42:25.993886+00:00",
+    "python_version": "3.12.10",
+    "strategy": "pandoc_docx_to_gfm_and_ast_plus_python_docx_structural_extraction"
+  },
+  "counts": {
+    "blocks": 405,
+    "chunks": 28,
+    "tables": 46,
+    "parameter_candidates": 253,
+    "at_commands": 1,
+    "nmea_sentences": 0,
+    "assets": 40
+  },
+  "assets": [
+    "assets/media/image10.png",
+    "assets/media/image11.png",
+    "assets/media/image12.png",
+    "assets/media/image13.png",
+    "assets/media/image14.png",
+    "assets/media/image15.png",
+    "assets/media/image16.png",
+    "assets/media/image17.png",
+    "assets/media/image18.png",
+    "assets/media/image19.png",
+    "assets/media/image2.png",
+    "assets/media/image20.png",
+    "assets/media/image21.png",
+    "assets/media/image22.png",
+    "assets/media/image23.png",
+    "assets/media/image24.png",
+    "assets/media/image25.png",
+    "assets/media/image26.png",
+    "assets/media/image27.png",
+    "assets/media/image28.png",
+    "assets/media/image29.png",
+    "assets/media/image30.png",
+    "assets/media/image31.png",
+    "assets/media/image32.png",
+    "assets/media/image33.png",
+    "assets/media/image34.png",
+    "assets/media/image35.png",
+    "assets/media/image36.png",
+    "assets/media/image37.png",
+    "assets/media/image38.png",
+    "assets/media/image39.png",
+    "assets/media/image4.png",
+    "assets/media/image40.png",
+    "assets/media/image41.png",
+    "assets/media/image42.png",
+    "assets/media/image5.png",
+    "assets/media/image6.png",
+    "assets/media/image7.png",
+    "assets/media/image8.png",
+    "assets/media/image9.png"
+  ],
+  "source_location": {
+    "pdf_file": "document.pdf",
+    "pdf_sha256": "39aad1677e6c240cd3acde93a1f8b41723d0ef594cc0966413bd341e31c55d38",
+    "reference_pdf_filename": "DX-CT511&DX-CT511N-4G模块技术手册.pdf",
+    "reference_pdf_mode": "supplied_reference_pdf",
+    "page_count": 45,
+    "pdf_reference_semantics": "Page numbers refer to the supplied reference PDF copied as document.pdf.",
+    "evidence_dataset": "../../../../dataset/evidence.jsonl",
+    "pages_dataset": "../../../../dataset/pages.jsonl"
+  }
+}

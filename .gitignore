@@ -1,0 +1,23 @@
+# 原始编辑文件和 Word 临时文件
+~$*
+*.docx
+
+# 本地构建、缓存和历史归档
+tmp/
+output/
+_archive/
+_staging_*/
+__pycache__/
+*.py[cod]
+.venv/
+
+# 含本机路径的内部配置或报告
+knowledge_base_config.json
+build_report.json
+conversion_summary.json
+evidence_summary.json
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+

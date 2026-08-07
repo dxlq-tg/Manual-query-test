@@ -1,0 +1,95 @@
+{
+  "status": "pass",
+  "validated_at": "2026-08-06T09:42:37.111823+00:00",
+  "documents": [
+    {
+      "document_id": "dx-wf24-technical-manual",
+      "status": "pass",
+      "errors": [],
+      "markdown_characters": 27658,
+      "asset_references": 25,
+      "table_json_files": 16
+    },
+    {
+      "document_id": "dx-wf24-uart-guide",
+      "status": "pass",
+      "errors": [],
+      "markdown_characters": 75610,
+      "asset_references": 3,
+      "table_json_files": 115
+    },
+    {
+      "document_id": "dx-wf24-communication-examples",
+      "status": "pass",
+      "errors": [],
+      "markdown_characters": 22416,
+      "asset_references": 44,
+      "table_json_files": 50
+    },
+    {
+      "document_id": "dx-ct511-ct511n-technical-manual",
+      "status": "pass",
+      "errors": [],
+      "markdown_characters": 82248,
+      "asset_references": 40,
+      "table_json_files": 46
+    },
+    {
+      "document_id": "dx-ct511-ct511n-uart-guide",
+      "status": "pass",
+      "errors": [],
+      "markdown_characters": 81581,
+      "asset_references": 3,
+      "table_json_files": 103
+    },
+    {
+      "document_id": "dx-ct511n-nmea0183-specification",
+      "status": "pass",
+      "errors": [],
+      "markdown_characters": 21714,
+      "asset_references": 1,
+      "table_json_files": 30
+    },
+    {
+      "document_id": "dx-ct11-technical-manual",
+      "status": "pass",
+      "errors": [],
+      "markdown_characters": 57223,
+      "asset_references": 26,
+      "table_json_files": 33
+    },
+    {
+      "document_id": "dx-ct11-uart-guide",
+      "status": "pass",
+      "errors": [],
+      "markdown_characters": 71700,
+      "asset_references": 3,
+      "table_json_files": 102
+    },
+    {
+      "document_id": "dx-ct12-uart-guide",
+      "status": "pass",
+      "errors": [],
+      "markdown_characters": 61180,
+      "asset_references": 3,
+      "table_json_files": 87
+    },
+    {
+      "document_id": "dx-ct12-technical-manual",
+      "status": "pass",
+      "errors": [],
+      "markdown_characters": 57196,
+      "asset_references": 26,
+      "table_json_files": 33
+    }
+  ],
+  "dataset_counts": {
+    "chunks.jsonl": 247,
+    "parameters.jsonl": 882,
+    "at_commands.jsonl": 200,
+    "nmea_sentences.jsonl": 12,
+    "catalog.jsonl": 10
+  },
+  "errors": [],
+  "warnings": []
+}

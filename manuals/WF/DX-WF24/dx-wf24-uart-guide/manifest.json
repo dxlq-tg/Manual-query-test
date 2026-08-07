@@ -1,0 +1,52 @@
+{
+  "schema_version": "2.0",
+  "document_id": "dx-wf24-uart-guide",
+  "series_id": "WF",
+  "product_ids": [
+    "dx-wf24"
+  ],
+  "applicable_models": [
+    "DX-WF24"
+  ],
+  "technology": [
+    "wifi"
+  ],
+  "document_type": "uart_guide",
+  "output_directory": "manuals/WF/DX-WF24/dx-wf24-uart-guide",
+  "source": {
+    "filename": "DX-WF24_串口UART_应用指导.docx",
+    "format": "docx",
+    "size_bytes": 377387,
+    "sha256": "9940c542339f0d3b571be929534fe44579ea5c5c6da70c561330d7d6125895b8",
+    "modified_time": "2026-08-06T06:22:39.641744+00:00"
+  },
+  "conversion": {
+    "converted_at": "2026-08-06T09:42:23.155807+00:00",
+    "python_version": "3.12.10",
+    "strategy": "pandoc_docx_to_gfm_and_ast_plus_python_docx_structural_extraction"
+  },
+  "counts": {
+    "blocks": 295,
+    "chunks": 32,
+    "tables": 115,
+    "parameter_candidates": 11,
+    "at_commands": 51,
+    "nmea_sentences": 0,
+    "assets": 3
+  },
+  "assets": [
+    "assets/media/image2.png",
+    "assets/media/image4.png",
+    "assets/media/image5.png"
+  ],
+  "source_location": {
+    "pdf_file": "document.pdf",
+    "pdf_sha256": "51a80420695b11f08e8f8c10fdc847ac622ddf19ddad3db559bbc1991a0c3a8a",
+    "reference_pdf_filename": "DX-WF24_串口UART_应用指导.pdf",
+    "reference_pdf_mode": "supplied_reference_pdf",
+    "page_count": 38,
+    "pdf_reference_semantics": "Page numbers refer to the supplied reference PDF copied as document.pdf.",
+    "evidence_dataset": "../../../../dataset/evidence.jsonl",
+    "pages_dataset": "../../../../dataset/pages.jsonl"
+  }
+}

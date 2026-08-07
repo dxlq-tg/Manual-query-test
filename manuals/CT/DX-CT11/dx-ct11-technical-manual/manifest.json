@@ -1,0 +1,75 @@
+{
+  "schema_version": "2.0",
+  "document_id": "dx-ct11-technical-manual",
+  "series_id": "CT",
+  "product_ids": [
+    "dx-ct11"
+  ],
+  "applicable_models": [
+    "DX-CT11"
+  ],
+  "technology": [
+    "cellular_4g"
+  ],
+  "document_type": "technical_manual",
+  "output_directory": "manuals/CT/DX-CT11/dx-ct11-technical-manual",
+  "source": {
+    "filename": "DX-CT11-B&C模块技术手册.docx",
+    "format": "docx",
+    "size_bytes": 2731032,
+    "sha256": "fb58e32d9bcb224a32a5dd3bbbfe28477cfd227b0779dafcab6063635a5ed722",
+    "modified_time": "2026-06-26T07:40:34.755672+00:00"
+  },
+  "conversion": {
+    "converted_at": "2026-08-06T09:42:30.957174+00:00",
+    "python_version": "3.12.10",
+    "strategy": "pandoc_docx_to_gfm_and_ast_plus_python_docx_structural_extraction"
+  },
+  "counts": {
+    "blocks": 255,
+    "chunks": 23,
+    "tables": 33,
+    "parameter_candidates": 177,
+    "at_commands": 2,
+    "nmea_sentences": 0,
+    "assets": 26
+  },
+  "assets": [
+    "assets/media/image10.png",
+    "assets/media/image11.jpeg",
+    "assets/media/image12.png",
+    "assets/media/image13.png",
+    "assets/media/image14.png",
+    "assets/media/image15.png",
+    "assets/media/image16.png",
+    "assets/media/image17.png",
+    "assets/media/image18.png",
+    "assets/media/image19.png",
+    "assets/media/image2.png",
+    "assets/media/image20.png",
+    "assets/media/image21.png",
+    "assets/media/image22.png",
+    "assets/media/image23.png",
+    "assets/media/image24.png",
+    "assets/media/image25.png",
+    "assets/media/image26.png",
+    "assets/media/image27.png",
+    "assets/media/image28.png",
+    "assets/media/image4.jpeg",
+    "assets/media/image5.png",
+    "assets/media/image6.png",
+    "assets/media/image7.png",
+    "assets/media/image8.png",
+    "assets/media/image9.png"
+  ],
+  "source_location": {
+    "pdf_file": "document.pdf",
+    "pdf_sha256": "0bfffdf4af2a7ed3758e30dcff4d0dd1f2b3ad08b4d155c2791ad46c2b151d05",
+    "reference_pdf_filename": "DX-CT11-B&C模块技术手册.pdf",
+    "reference_pdf_mode": "supplied_reference_pdf",
+    "page_count": 32,
+    "pdf_reference_semantics": "Page numbers refer to the supplied reference PDF copied as document.pdf.",
+    "evidence_dataset": "../../../../dataset/evidence.jsonl",
+    "pages_dataset": "../../../../dataset/pages.jsonl"
+  }
+}
